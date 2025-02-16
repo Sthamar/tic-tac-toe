@@ -1,0 +1,8 @@
+.game{
+  display: flex;
+
+}
+.square{
+  height: 5vh;
+  width: 2vw;
+}
